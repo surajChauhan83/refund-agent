@@ -119,7 +119,8 @@ workpodd-refund-agent/
 ### 1. Clone / extract the project
 
 ```bash
-cd workpodd-refund-agent
+git clone https://github.com/surajChauhan83/refund-agent.git
+cd refund-agent
 ```
 
 ### 2. Create virtual environment
