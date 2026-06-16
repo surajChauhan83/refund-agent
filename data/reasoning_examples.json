@@ -1,0 +1,18 @@
+[
+  {
+    "step": "Fetch Customer",
+    "status": "SUCCESS"
+  },
+  {
+    "step": "Load Refund Policy",
+    "status": "SUCCESS"
+  },
+  {
+    "step": "Validate Refund Rules",
+    "status": "SUCCESS"
+  },
+  {
+    "step": "Generate Decision",
+    "status": "APPROVED"
+  }
+]
