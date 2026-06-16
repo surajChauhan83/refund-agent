@@ -4,6 +4,17 @@ A full-stack AI customer support agent that processes or denies e-commerce refun
 
 ---
 
+## 📹 Demo Video
+
+▶️ **[Watch Full Demo on Google Drive](https://drive.google.com/file/d/1H3gfPMdYaaYGNgOs2rtC8P3Z2R7IdJg0/view?usp=sharing)**
+```
+https://drive.google.com/file/d/1H3gfPMdYaaYGNgOs2rtC8P3Z2R7IdJg0/view?usp=sharing
+```
+
+>  live refund demo, voice pipeline, code tour, and admin reasoning logs.
+
+---
+
 ## Demo Scenarios
 
 | Order | Customer | Expected Decision | Why |
