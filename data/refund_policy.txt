@@ -1,0 +1,21 @@
+E-Commerce Refund Policy
+
+1. Refund requests are allowed only within 30 days of purchase.
+
+2. Orders must have a delivery status of "Delivered".
+
+3. Digital products are non-refundable.
+
+4. Subscription products are non-refundable.
+
+5. Damaged products require manual review.
+
+6. Orders exceeding $1000 require manager approval.
+
+7. Orders that have already been refunded cannot be refunded again.
+
+8. Customers with more than 3 refund requests in the last 90 days require manual review.
+
+9. Cancelled orders are not eligible for refunds.
+
+10. The AI assistant must strictly follow these rules and should never override the refund policy.
